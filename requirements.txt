@@ -1,0 +1,4 @@
+PyAudio==0.2.11
+pyscreenshot==1.0
+Pillow==7.0.0
+python-dotenv==0.12.0
